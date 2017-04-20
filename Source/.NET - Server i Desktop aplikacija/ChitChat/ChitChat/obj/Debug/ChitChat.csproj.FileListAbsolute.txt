@@ -1,0 +1,11 @@
+C:\Users\unReaL\Desktop\Baze podataka\ChitChat\ChitChat\bin\Debug\ChitChat.exe.config
+C:\Users\unReaL\Desktop\Baze podataka\ChitChat\ChitChat\bin\Debug\ChitChat.exe
+C:\Users\unReaL\Desktop\Baze podataka\ChitChat\ChitChat\bin\Debug\ChitChat.pdb
+C:\Users\unReaL\Desktop\Baze podataka\ChitChat\ChitChat\obj\Debug\ChitChat.Form1.resources
+C:\Users\unReaL\Desktop\Baze podataka\ChitChat\ChitChat\obj\Debug\ChitChat.Properties.Resources.resources
+C:\Users\unReaL\Desktop\Baze podataka\ChitChat\ChitChat\obj\Debug\ChitChat.csproj.GenerateResource.Cache
+C:\Users\unReaL\Desktop\Baze podataka\ChitChat\ChitChat\obj\Debug\ChitChat.exe
+C:\Users\unReaL\Desktop\Baze podataka\ChitChat\ChitChat\obj\Debug\ChitChat.pdb
+C:\Users\unReaL\Desktop\Baze podataka\ChitChat\ChitChat\obj\Debug\ChitChat.Registration.resources
+C:\Users\unReaL\Desktop\Baze podataka\ChitChat\ChitChat\obj\Debug\ChitChat.Main.resources
+C:\Users\unReaL\Desktop\Baze podataka\ChitChat\ChitChat\obj\Debug\ChitChat.csprojResolveAssemblyReference.cache
